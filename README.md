@@ -7,7 +7,7 @@
 3. Bundle all JavaScript files in one output .js file.
 4. Use EsLint to create front-end coding rules for all co-work developers.
 
-## Requires
+## Requirements
 
 1. node.js (npm) in your computer.
 2. webpack gobal command 
