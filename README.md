@@ -32,7 +32,7 @@ $ npm install webpack -g
 * **import** and **export** in all .js files is let Webpack to build dependency in your bundle.js.
 * .eslintrc is a file to rule coding style in ide plungin(ex: ESLint of Sublime Text 3)
 
-## Maybe you need use more settings...
+## Maybe you need more settings...
 
 * [ESLint rules settings](http://eslint.org/docs/rules/)
 * [Webpack guides](https://webpack.github.io/docs/)
