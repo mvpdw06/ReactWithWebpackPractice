@@ -1,4 +1,4 @@
-# React with Webpack Practice
+# React and webpack practice with hot-reload
 
 ## Targets
 
